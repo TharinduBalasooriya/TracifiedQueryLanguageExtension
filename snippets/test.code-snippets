@@ -1,0 +1,1299 @@
+",": {
+	"prefix": ",",
+	"body": [		","
+	],
+"description": ","
+},
+"Function": {
+	"prefix": "Function",
+	"body": [		"Function"
+	],
+"description": "Function"
+},
+"EndFunction": {
+	"prefix": "EndFunction",
+	"body": [		"EndFunction"
+	],
+"description": "EndFunction"
+},
+"ARG": {
+	"prefix": "ARG",
+	"body": [		"ARG"
+	],
+"description": "ARG"
+},
+"RET": {
+	"prefix": "RET",
+	"body": [		"RET"
+	],
+"description": "RET"
+},
+"TRUE": {
+	"prefix": "TRUE",
+	"body": [		"TRUE"
+	],
+"description": "TRUE"
+},
+"FALSE": {
+	"prefix": "FALSE",
+	"body": [		"FALSE"
+	],
+"description": "FALSE"
+},
+"If": {
+	"prefix": "If",
+	"body": [		"If"
+	],
+"description": "If"
+},
+"IfNot": {
+	"prefix": "IfNot",
+	"body": [		"IfNot"
+	],
+"description": "IfNot"
+},
+"EndIf": {
+	"prefix": "EndIf",
+	"body": [		"EndIf"
+	],
+"description": "EndIf"
+},
+"While": {
+	"prefix": "While",
+	"body": [		"While"
+	],
+"description": "While"
+},
+"Do": {
+	"prefix": "Do",
+	"body": [		"Do"
+	],
+"description": "Do"
+},
+"Break": {
+	"prefix": "Break",
+	"body": [		"Break"
+	],
+"description": "Break"
+},
+"Continue": {
+	"prefix": "Continue",
+	"body": [		"Continue"
+	],
+"description": "Continue"
+},
+"Item": {
+	"prefix": "Item",
+	"body": [		"Item"
+	],
+"description": "Item"
+},
+"LeftSibling": {
+	"prefix": "LeftSibling",
+	"body": [		"LeftSibling"
+	],
+"description": "LeftSibling"
+},
+"RightSibling": {
+	"prefix": "RightSibling",
+	"body": [		"RightSibling"
+	],
+"description": "RightSibling"
+},
+"Parent": {
+	"prefix": "Parent",
+	"body": [		"Parent"
+	],
+"description": "Parent"
+},
+"FirstChild": {
+	"prefix": "FirstChild",
+	"body": [		"FirstChild"
+	],
+"description": "FirstChild"
+},
+"Children": {
+	"prefix": "Children",
+	"body": [		"Children"
+	],
+"description": "Children"
+},
+"ChildCount": {
+	"prefix": "ChildCount",
+	"body": [		"ChildCount"
+	],
+"description": "ChildCount"
+},
+"GetValue": {
+	"prefix": "GetValue",
+	"body": [		"GetValue"
+	],
+"description": "GetValue"
+},
+"GetLValue": {
+	"prefix": "GetLValue",
+	"body": [		"GetLValue"
+	],
+"description": "GetLValue"
+},
+"GetRValue": {
+	"prefix": "GetRValue",
+	"body": [		"GetRValue"
+	],
+"description": "GetRValue"
+},
+"GetCustomString": {
+	"prefix": "GetCustomString",
+	"body": [		"GetCustomString"
+	],
+"description": "GetCustomString"
+},
+"GetId": {
+	"prefix": "GetId",
+	"body": [		"GetId"
+	],
+"description": "GetId"
+},
+"GetType": {
+	"prefix": "GetType",
+	"body": [		"GetType"
+	],
+"description": "GetType"
+},
+"GetNature": {
+	"prefix": "GetNature",
+	"body": [		"GetNature"
+	],
+"description": "GetNature"
+},
+"GetWeight": {
+	"prefix": "GetWeight",
+	"body": [		"GetWeight"
+	],
+"description": "GetWeight"
+},
+"GetMinimumChildWeight": {
+	"prefix": "GetMinimumChildWeight",
+	"body": [		"GetMinimumChildWeight"
+	],
+"description": "GetMinimumChildWeight"
+},
+"GetMaximumChildWeight": {
+	"prefix": "GetMaximumChildWeight",
+	"body": [		"GetMaximumChildWeight"
+	],
+"description": "GetMaximumChildWeight"
+},
+"SetValue": {
+	"prefix": "SetValue",
+	"body": [		"SetValue"
+	],
+"description": "SetValue"
+},
+"SetLValue": {
+	"prefix": "SetLValue",
+	"body": [		"SetLValue"
+	],
+"description": "SetLValue"
+},
+"SetRValue": {
+	"prefix": "SetRValue",
+	"body": [		"SetRValue"
+	],
+"description": "SetRValue"
+},
+"SetType": {
+	"prefix": "SetType",
+	"body": [		"SetType"
+	],
+"description": "SetType"
+},
+"SetNature": {
+	"prefix": "SetNature",
+	"body": [		"SetNature"
+	],
+"description": "SetNature"
+},
+"SetCustomString": {
+	"prefix": "SetCustomString",
+	"body": [		"SetCustomString"
+	],
+"description": "SetCustomString"
+},
+"SetMinimumChildWeight": {
+	"prefix": "SetMinimumChildWeight",
+	"body": [		"SetMinimumChildWeight"
+	],
+"description": "SetMinimumChildWeight"
+},
+"SetMaximumChildWeight": {
+	"prefix": "SetMaximumChildWeight",
+	"body": [		"SetMaximumChildWeight"
+	],
+"description": "SetMaximumChildWeight"
+},
+"SetWeight": {
+	"prefix": "SetWeight",
+	"body": [		"SetWeight"
+	],
+"description": "SetWeight"
+},
+"Expand": {
+	"prefix": "Expand",
+	"body": [		"Expand"
+	],
+"description": "Expand"
+},
+"AddNode": {
+	"prefix": "AddNode",
+	"body": [		"AddNode"
+	],
+"description": "AddNode"
+},
+"AddNodeWithWeight": {
+	"prefix": "AddNodeWithWeight",
+	"body": [		"AddNodeWithWeight"
+	],
+"description": "AddNodeWithWeight"
+},
+"FilterSubtree": {
+	"prefix": "FilterSubtree",
+	"body": [		"FilterSubtree"
+	],
+"description": "FilterSubtree"
+},
+"ReadFromFile": {
+	"prefix": "ReadFromFile",
+	"body": [		"ReadFromFile"
+	],
+"description": "ReadFromFile"
+},
+"GetAggregatedValue": {
+	"prefix": "GetAggregatedValue",
+	"body": [		"GetAggregatedValue"
+	],
+"description": "GetAggregatedValue"
+},
+"GetSubtree": {
+	"prefix": "GetSubtree",
+	"body": [		"GetSubtree"
+	],
+"description": "GetSubtree"
+},
+"IsType": {
+	"prefix": "IsType",
+	"body": [		"IsType"
+	],
+"description": "IsType"
+},
+"IsValue": {
+	"prefix": "IsValue",
+	"body": [		"IsValue"
+	],
+"description": "IsValue"
+},
+"GetChildOfType": {
+	"prefix": "GetChildOfType",
+	"body": [		"GetChildOfType"
+	],
+"description": "GetChildOfType"
+},
+"IsStringEqualTo": {
+	"prefix": "IsStringEqualTo",
+	"body": [		"IsStringEqualTo"
+	],
+"description": "IsStringEqualTo"
+},
+"IsStringMemberOf": {
+	"prefix": "IsStringMemberOf",
+	"body": [		"IsStringMemberOf"
+	],
+"description": "IsStringMemberOf"
+},
+"IsHavingSubstring": {
+	"prefix": "IsHavingSubstring",
+	"body": [		"IsHavingSubstring"
+	],
+"description": "IsHavingSubstring"
+},
+"IsHavingLeftSubstring": {
+	"prefix": "IsHavingLeftSubstring",
+	"body": [		"IsHavingLeftSubstring"
+	],
+"description": "IsHavingLeftSubstring"
+},
+"IsHavingRightSubstring": {
+	"prefix": "IsHavingRightSubstring",
+	"body": [		"IsHavingRightSubstring"
+	],
+"description": "IsHavingRightSubstring"
+},
+"AddPrefix": {
+	"prefix": "AddPrefix",
+	"body": [		"AddPrefix"
+	],
+"description": "AddPrefix"
+},
+"AddPostFix": {
+	"prefix": "AddPostFix",
+	"body": [		"AddPostFix"
+	],
+"description": "AddPostFix"
+},
+"TrimLeft": {
+	"prefix": "TrimLeft",
+	"body": [		"TrimLeft"
+	],
+"description": "TrimLeft"
+},
+"TrimRight": {
+	"prefix": "TrimRight",
+	"body": [		"TrimRight"
+	],
+"description": "TrimRight"
+},
+"WriteToFile": {
+	"prefix": "WriteToFile",
+	"body": [		"WriteToFile"
+	],
+"description": "WriteToFile"
+},
+"GetLength": {
+	"prefix": "GetLength",
+	"body": [		"GetLength"
+	],
+"description": "GetLength"
+},
+"IsIntEqualTo": {
+	"prefix": "IsIntEqualTo",
+	"body": [		"IsIntEqualTo"
+	],
+"description": "IsIntEqualTo"
+},
+"IsIntMemberOf": {
+	"prefix": "IsIntMemberOf",
+	"body": [		"IsIntMemberOf"
+	],
+"description": "IsIntMemberOf"
+},
+"IsLessThan": {
+	"prefix": "IsLessThan",
+	"body": [		"IsLessThan"
+	],
+"description": "IsLessThan"
+},
+"IsLessThanOrEqualTo": {
+	"prefix": "IsLessThanOrEqualTo",
+	"body": [		"IsLessThanOrEqualTo"
+	],
+"description": "IsLessThanOrEqualTo"
+},
+"IsGreaterThan": {
+	"prefix": "IsGreaterThan",
+	"body": [		"IsGreaterThan"
+	],
+"description": "IsGreaterThan"
+},
+"IsGreaterThanOrEqualTo": {
+	"prefix": "IsGreaterThanOrEqualTo",
+	"body": [		"IsGreaterThanOrEqualTo"
+	],
+"description": "IsGreaterThanOrEqualTo"
+},
+"Add": {
+	"prefix": "Add",
+	"body": [		"Add"
+	],
+"description": "Add"
+},
+"Subtract": {
+	"prefix": "Subtract",
+	"body": [		"Subtract"
+	],
+"description": "Subtract"
+},
+"ToString": {
+	"prefix": "ToString",
+	"body": [		"ToString"
+	],
+"description": "ToString"
+},
+"GetItemCount": {
+	"prefix": "GetItemCount",
+	"body": [		"GetItemCount"
+	],
+"description": "GetItemCount"
+},
+"Filter": {
+	"prefix": "Filter",
+	"body": [		"Filter"
+	],
+"description": "Filter"
+},
+"GroupBy": {
+	"prefix": "GroupBy",
+	"body": [		"GroupBy"
+	],
+"description": "GroupBy"
+},
+"GroupSequenceBy": {
+	"prefix": "GroupSequenceBy",
+	"body": [		"GroupSequenceBy"
+	],
+"description": "GroupSequenceBy"
+},
+"Seek": {
+	"prefix": "Seek",
+	"body": [		"Seek"
+	],
+"description": "Seek"
+},
+"SeekToBegin": {
+	"prefix": "SeekToBegin",
+	"body": [		"SeekToBegin"
+	],
+"description": "SeekToBegin"
+},
+"SeekToEnd": {
+	"prefix": "SeekToEnd",
+	"body": [		"SeekToEnd"
+	],
+"description": "SeekToEnd"
+},
+"GetCurrentElement": {
+	"prefix": "GetCurrentElement",
+	"body": [		"GetCurrentElement"
+	],
+"description": "GetCurrentElement"
+},
+"IsNull": {
+	"prefix": "IsNull",
+	"body": [		"IsNull"
+	],
+"description": "IsNull"
+},
+"IsNotNull": {
+	"prefix": "IsNotNull",
+	"body": [		"IsNotNull"
+	],
+"description": "IsNotNull"
+},
+"And": {
+	"prefix": "And",
+	"body": [		"And"
+	],
+"description": "And"
+},
+"Or": {
+	"prefix": "Or",
+	"body": [		"Or"
+	],
+"description": "Or"
+},
+"script.ldel": {
+	"prefix": "script.ldel",
+	"body": [		"script.ldel"
+	],
+"description": "script.ldel"
+},
+"log.txt": {
+	"prefix": "log.txt",
+	"body": [		"log.txt"
+	],
+"description": "log.txt"
+},
+"result.txt": {
+	"prefix": "result.txt",
+	"body": [		"result.txt"
+	],
+"description": "result.txt"
+},
+"(NUMBER)": {
+	"prefix": "(NUMBER)",
+	"body": [		"(NUMBER)"
+	],
+"description": "(NUMBER)"
+},
+"(FORMATTED_NUMBER)": {
+	"prefix": "(FORMATTED_NUMBER)",
+	"body": [		"(FORMATTED_NUMBER)"
+	],
+"description": "(FORMATTED_NUMBER)"
+},
+"(STRING)": {
+	"prefix": "(STRING)",
+	"body": [		"(STRING)"
+	],
+"description": "(STRING)"
+},
+"(TEXT)": {
+	"prefix": "(TEXT)",
+	"body": [		"(TEXT)"
+	],
+"description": "(TEXT)"
+},
+"(SPACES)": {
+	"prefix": "(SPACES)",
+	"body": [		"(SPACES)"
+	],
+"description": "(SPACES)"
+},
+"(FLOAT)": {
+	"prefix": "(FLOAT)",
+	"body": [		"(FLOAT)"
+	],
+"description": "(FLOAT)"
+},
+"(FORMATTED_FLOAT)": {
+	"prefix": "(FORMATTED_FLOAT)",
+	"body": [		"(FORMATTED_FLOAT)"
+	],
+"description": "(FORMATTED_FLOAT)"
+},
+"SEQUENCE": {
+	"prefix": "SEQUENCE",
+	"body": [		"SEQUENCE"
+	],
+"description": "SEQUENCE"
+},
+"#IMPORT": {
+	"prefix": "#IMPORT",
+	"body": [		"#IMPORT"
+	],
+"description": "#IMPORT"
+},
+"Ignore_Empty_Lines": {
+	"prefix": "Ignore_Empty_Lines",
+	"body": [		"Ignore_Empty_Lines"
+	],
+"description": "Ignore_Empty_Lines"
+},
+"Number_Format_Is_European": {
+	"prefix": "Number_Format_Is_European",
+	"body": [		"Number_Format_Is_European"
+	],
+"description": "Number_Format_Is_European"
+},
+"IGNORE_TEXT_BLOCK": {
+	"prefix": "IGNORE_TEXT_BLOCK",
+	"body": [		"IGNORE_TEXT_BLOCK"
+	],
+"description": "IGNORE_TEXT_BLOCK"
+},
+"SetEntityObject": {
+	"prefix": "SetEntityObject",
+	"body": [		"SetEntityObject"
+	],
+"description": "SetEntityObject"
+},
+"GetEntityObject": {
+	"prefix": "GetEntityObject",
+	"body": [		"GetEntityObject"
+	],
+"description": "GetEntityObject"
+},
+"SecondsToMonths": {
+	"prefix": "SecondsToMonths",
+	"body": [		"SecondsToMonths"
+	],
+"description": "SecondsToMonths"
+},
+"SecondsToDays": {
+	"prefix": "SecondsToDays",
+	"body": [		"SecondsToDays"
+	],
+"description": "SecondsToDays"
+},
+"SecondsToYears": {
+	"prefix": "SecondsToYears",
+	"body": [		"SecondsToYears"
+	],
+"description": "SecondsToYears"
+},
+"GetDifferenceByString": {
+	"prefix": "GetDifferenceByString",
+	"body": [		"GetDifferenceByString"
+	],
+"description": "GetDifferenceByString"
+},
+"StringToReadableDateTime": {
+	"prefix": "StringToReadableDateTime",
+	"body": [		"StringToReadableDateTime"
+	],
+"description": "StringToReadableDateTime"
+},
+"DateNow": {
+	"prefix": "DateNow",
+	"body": [		"DateNow"
+	],
+"description": "DateNow"
+},
+"StringToUnixTime": {
+	"prefix": "StringToUnixTime",
+	"body": [		"StringToUnixTime"
+	],
+"description": "StringToUnixTime"
+},
+"GetNextElement": {
+	"prefix": "GetNextElement",
+	"body": [		"GetNextElement"
+	],
+"description": "GetNextElement"
+},
+"CheckNotNull": {
+	"prefix": "CheckNotNull",
+	"body": [		"CheckNotNull"
+	],
+"description": "CheckNotNull"
+},
+"GetUniqueNodeListWithCount": {
+	"prefix": "GetUniqueNodeListWithCount",
+	"body": [		"GetUniqueNodeListWithCount"
+	],
+"description": "GetUniqueNodeListWithCount"
+},
+"StringToInteger": {
+	"prefix": "StringToInteger",
+	"body": [		"StringToInteger"
+	],
+"description": "StringToInteger"
+},
+"GetStringVar": {
+	"prefix": "GetStringVar",
+	"body": [		"GetStringVar"
+	],
+"description": "GetStringVar"
+},
+"GetIntegerVar": {
+	"prefix": "GetIntegerVar",
+	"body": [		"GetIntegerVar"
+	],
+"description": "GetIntegerVar"
+},
+"StringToBoolean": {
+	"prefix": "StringToBoolean",
+	"body": [		"StringToBoolean"
+	],
+"description": "StringToBoolean"
+},
+"GetComma": {
+	"prefix": "GetComma",
+	"body": [		"GetComma"
+	],
+"description": "GetComma"
+},
+"GetBooleanVar": {
+	"prefix": "GetBooleanVar",
+	"body": [		"GetBooleanVar"
+	],
+"description": "GetBooleanVar"
+},
+"SetBoolean": {
+	"prefix": "SetBoolean",
+	"body": [		"SetBoolean"
+	],
+"description": "SetBoolean"
+},
+"ToFalse": {
+	"prefix": "ToFalse",
+	"body": [		"ToFalse"
+	],
+"description": "ToFalse"
+},
+"ToTrue": {
+	"prefix": "ToTrue",
+	"body": [		"ToTrue"
+	],
+"description": "ToTrue"
+},
+"NextSibling": {
+	"prefix": "NextSibling",
+	"body": [		"NextSibling"
+	],
+"description": "NextSibling"
+},
+"SortNodeList": {
+	"prefix": "SortNodeList",
+	"body": [		"SortNodeList"
+	],
+"description": "SortNodeList"
+},
+"ExtractNodeListTop": {
+	"prefix": "ExtractNodeListTop",
+	"body": [		"ExtractNodeListTop"
+	],
+"description": "ExtractNodeListTop"
+},
+"GetCustomObj": {
+	"prefix": "GetCustomObj",
+	"body": [		"GetCustomObj"
+	],
+"description": "GetCustomObj"
+},
+"ConvertToSentenceCase": {
+	"prefix": "ConvertToSentenceCase",
+	"body": [		"ConvertToSentenceCase"
+	],
+"description": "ConvertToSentenceCase"
+},
+"GetDayOfTheWeekShortString": {
+	"prefix": "GetDayOfTheWeekShortString",
+	"body": [		"GetDayOfTheWeekShortString"
+	],
+"description": "GetDayOfTheWeekShortString"
+},
+"GetDayString": {
+	"prefix": "GetDayString",
+	"body": [		"GetDayString"
+	],
+"description": "GetDayString"
+},
+"GetMonthShortString": {
+	"prefix": "GetMonthShortString",
+	"body": [		"GetMonthShortString"
+	],
+"description": "GetMonthShortString"
+},
+"GetTime24HourFormat": {
+	"prefix": "GetTime24HourFormat",
+	"body": [		"GetTime24HourFormat"
+	],
+"description": "GetTime24HourFormat"
+},
+"GetYear": {
+	"prefix": "GetYear",
+	"body": [		"GetYear"
+	],
+"description": "GetYear"
+},
+"GetOldestDate": {
+	"prefix": "GetOldestDate",
+	"body": [		"GetOldestDate"
+	],
+"description": "GetOldestDate"
+},
+"GetLatestDate": {
+	"prefix": "GetLatestDate",
+	"body": [		"GetLatestDate"
+	],
+"description": "GetLatestDate"
+},
+"AddPeriod": {
+	"prefix": "AddPeriod",
+	"body": [		"AddPeriod"
+	],
+"description": "AddPeriod"
+},
+"GetUniqueNodeListWithNodeRef": {
+	"prefix": "GetUniqueNodeListWithNodeRef",
+	"body": [		"GetUniqueNodeListWithNodeRef"
+	],
+"description": "GetUniqueNodeListWithNodeRef"
+},
+"SetInteger": {
+	"prefix": "SetInteger",
+	"body": [		"SetInteger"
+	],
+"description": "SetInteger"
+},
+"QueryProfileAndTDPs": {
+	"prefix": "QueryProfileAndTDPs",
+	"body": [		"QueryProfileAndTDPs"
+	],
+"description": "QueryProfileAndTDPs"
+},
+"GetNodeObj": {
+	"prefix": "GetNodeObj",
+	"body": [		"GetNodeObj"
+	],
+"description": "GetNodeObj"
+},
+"Multiply": {
+	"prefix": "Multiply",
+	"body": [		"Multiply"
+	],
+"description": "Multiply"
+},
+"AbsoluteValue": {
+	"prefix": "AbsoluteValue",
+	"body": [		"AbsoluteValue"
+	],
+"description": "AbsoluteValue"
+},
+"Divide": {
+	"prefix": "Divide",
+	"body": [		"Divide"
+	],
+"description": "Divide"
+},
+"QueryReviewsByProfileIds": {
+	"prefix": "QueryReviewsByProfileIds",
+	"body": [		"QueryReviewsByProfileIds"
+	],
+"description": "QueryReviewsByProfileIds"
+},
+"StringToUnixTime2": {
+	"prefix": "StringToUnixTime2",
+	"body": [		"StringToUnixTime2"
+	],
+"description": "StringToUnixTime2"
+},
+"QueryReviewsByIdentifiers": {
+	"prefix": "QueryReviewsByIdentifiers",
+	"body": [		"QueryReviewsByIdentifiers"
+	],
+"description": "QueryReviewsByIdentifiers"
+},
+"Percentage": {
+	"prefix": "Percentage",
+	"body": [		"Percentage"
+	],
+"description": "Percentage"
+},
+"Average": {
+	"prefix": "Average",
+	"body": [		"Average"
+	],
+"description": "Average"
+},
+"": {
+	"prefix": "",
+	"body": [		""
+	],
+"description": ""
+},
+}
+}
+"Function": {
+"EndFunction": {
+"ARG": {
+"RET": {
+"TRUE": {
+"FALSE": {
+"If": {
+"IfNot": {
+"EndIf": {
+"While": {
+"Do": {
+"Break": {
+"Continue": {
+"Item": {
+"LeftSibling": {
+"RightSibling": {
+"Parent": {
+"FirstChild": {
+"Children": {
+"ChildCount": {
+"GetValue": {
+"GetLValue": {
+"GetRValue": {
+"GetCustomString": {
+"GetId": {
+"GetType": {
+"GetNature": {
+"GetWeight": {
+"GetMinimumChildWeight": {
+"GetMaximumChildWeight": {
+"SetValue": {
+"SetLValue": {
+"SetRValue": {
+"SetType": {
+"SetNature": {
+"SetCustomString": {
+"SetMinimumChildWeight": {
+"SetMaximumChildWeight": {
+"SetWeight": {
+"Expand": {
+"AddNode": {
+"AddNodeWithWeight": {
+"FilterSubtree": {
+"ReadFromFile": {
+"GetAggregatedValue": {
+"GetSubtree": {
+"IsType": {
+"IsValue": {
+"GetChildOfType": {
+"IsStringEqualTo": {
+"IsStringMemberOf": {
+"IsHavingSubstring": {
+"IsHavingLeftSubstring": {
+"IsHavingRightSubstring": {
+"AddPrefix": {
+"AddPostFix": {
+"TrimLeft": {
+"TrimRight": {
+"WriteToFile": {
+"GetLength": {
+"IsIntEqualTo": {
+"IsIntMemberOf": {
+"IsLessThan": {
+"IsLessThanOrEqualTo": {
+"IsGreaterThan": {
+"IsGreaterThanOrEqualTo": {
+"Add": {
+"Subtract": {
+"ToString": {
+"GetItemCount": {
+"Filter": {
+"GroupBy": {
+"GroupSequenceBy": {
+"Seek": {
+"SeekToBegin": {
+"SeekToEnd": {
+"GetCurrentElement": {
+"IsNull": {
+"IsNotNull": {
+"And": {
+"Or": {
+"script.ldel": {
+"log.txt": {
+"result.txt": {
+"(NUMBER)": {
+"(FORMATTED_NUMBER)": {
+"(STRING)": {
+"(TEXT)": {
+"(SPACES)": {
+"(FLOAT)": {
+"(FORMATTED_FLOAT)": {
+"SEQUENCE": {
+"#IMPORT": {
+"Ignore_Empty_Lines": {
+"Number_Format_Is_European": {
+"IGNORE_TEXT_BLOCK": {
+"SetEntityObject": {
+"GetEntityObject": {
+"SecondsToMonths": {
+"SecondsToDays": {
+"SecondsToYears": {
+"GetDifferenceByString": {
+"StringToReadableDateTime": {
+"DateNow": {
+"StringToUnixTime": {
+"GetNextElement": {
+"CheckNotNull": {
+"GetUniqueNodeListWithCount": {
+"StringToInteger": {
+"GetStringVar": {
+"GetIntegerVar": {
+"StringToBoolean": {
+"GetComma": {
+"GetBooleanVar": {
+"SetBoolean": {
+"ToFalse": {
+"ToTrue": {
+"NextSibling": {
+"SortNodeList": {
+"ExtractNodeListTop": {
+"GetCustomObj": {
+"ConvertToSentenceCase": {
+"GetDayOfTheWeekShortString": {
+"GetDayString": {
+"GetMonthShortString": {
+"GetTime24HourFormat": {
+"GetYear": {
+"GetOldestDate": {
+"GetLatestDate": {
+"AddPeriod": {
+"GetUniqueNodeListWithNodeRef": {
+"SetInteger": {
+"QueryProfileAndTDPs": {
+"GetNodeObj": {
+"Multiply": {
+"AbsoluteValue": {
+"Divide": {
+"QueryReviewsByProfileIds": {
+"StringToUnixTime2": {
+"QueryReviewsByIdentifiers": {
+"Percentage": {
+"Average": {
+"": {
+}
+"Function": {
+"EndFunction": {
+"ARG": {
+"RET": {
+"TRUE": {
+"FALSE": {
+"If": {
+"IfNot": {
+"EndIf": {
+"While": {
+"Do": {
+"Break": {
+"Continue": {
+"Item": {
+"LeftSibling": {
+"RightSibling": {
+"Parent": {
+"FirstChild": {
+"Children": {
+"ChildCount": {
+"GetValue": {
+"GetLValue": {
+"GetRValue": {
+"GetCustomString": {
+"GetId": {
+"GetType": {
+"GetNature": {
+"GetWeight": {
+"GetMinimumChildWeight": {
+"GetMaximumChildWeight": {
+"SetValue": {
+"SetLValue": {
+"SetRValue": {
+"SetType": {
+"SetNature": {
+"SetCustomString": {
+"SetMinimumChildWeight": {
+"SetMaximumChildWeight": {
+"SetWeight": {
+"Expand": {
+"AddNode": {
+"AddNodeWithWeight": {
+"FilterSubtree": {
+"ReadFromFile": {
+"GetAggregatedValue": {
+"GetSubtree": {
+"IsType": {
+"IsValue": {
+"GetChildOfType": {
+"IsStringEqualTo": {
+"IsStringMemberOf": {
+"IsHavingSubstring": {
+"IsHavingLeftSubstring": {
+"IsHavingRightSubstring": {
+"AddPrefix": {
+"AddPostFix": {
+"TrimLeft": {
+"TrimRight": {
+"WriteToFile": {
+"GetLength": {
+"IsIntEqualTo": {
+"IsIntMemberOf": {
+"IsLessThan": {
+"IsLessThanOrEqualTo": {
+"IsGreaterThan": {
+"IsGreaterThanOrEqualTo": {
+"Add": {
+"Subtract": {
+"ToString": {
+"GetItemCount": {
+"Filter": {
+"GroupBy": {
+"GroupSequenceBy": {
+"Seek": {
+"SeekToBegin": {
+"SeekToEnd": {
+"GetCurrentElement": {
+"IsNull": {
+"IsNotNull": {
+"And": {
+"Or": {
+"script.ldel": {
+"log.txt": {
+"result.txt": {
+"(NUMBER)": {
+"(FORMATTED_NUMBER)": {
+"(STRING)": {
+"(TEXT)": {
+"(SPACES)": {
+"(FLOAT)": {
+"(FORMATTED_FLOAT)": {
+"SEQUENCE": {
+"#IMPORT": {
+"Ignore_Empty_Lines": {
+"Number_Format_Is_European": {
+"IGNORE_TEXT_BLOCK": {
+"SetEntityObject": {
+"GetEntityObject": {
+"SecondsToMonths": {
+"SecondsToDays": {
+"SecondsToYears": {
+"GetDifferenceByString": {
+"StringToReadableDateTime": {
+"DateNow": {
+"StringToUnixTime": {
+"GetNextElement": {
+"CheckNotNull": {
+"GetUniqueNodeListWithCount": {
+"StringToInteger": {
+"GetStringVar": {
+"GetIntegerVar": {
+"StringToBoolean": {
+"GetComma": {
+"GetBooleanVar": {
+"SetBoolean": {
+"ToFalse": {
+"ToTrue": {
+"NextSibling": {
+"SortNodeList": {
+"ExtractNodeListTop": {
+"GetCustomObj": {
+"ConvertToSentenceCase": {
+"GetDayOfTheWeekShortString": {
+"GetDayString": {
+"GetMonthShortString": {
+"GetTime24HourFormat": {
+"GetYear": {
+"GetOldestDate": {
+"GetLatestDate": {
+"AddPeriod": {
+"GetUniqueNodeListWithNodeRef": {
+"SetInteger": {
+"QueryProfileAndTDPs": {
+"GetNodeObj": {
+"Multiply": {
+"AbsoluteValue": {
+"Divide": {
+"QueryReviewsByProfileIds": {
+"StringToUnixTime2": {
+"QueryReviewsByIdentifiers": {
+"Percentage": {
+"Average": {
+"": {
+}
+"Function": {
+"EndFunction": {
+"ARG": {
+"RET": {
+"TRUE": {
+"FALSE": {
+"If": {
+"IfNot": {
+"EndIf": {
+"While": {
+"Do": {
+"Break": {
+"Continue": {
+"Item": {
+"LeftSibling": {
+"RightSibling": {
+"Parent": {
+"FirstChild": {
+"Children": {
+"ChildCount": {
+"GetValue": {
+"GetLValue": {
+"GetRValue": {
+"GetCustomString": {
+"GetId": {
+"GetType": {
+"GetNature": {
+"GetWeight": {
+"GetMinimumChildWeight": {
+"GetMaximumChildWeight": {
+"SetValue": {
+"SetLValue": {
+"SetRValue": {
+"SetType": {
+"SetNature": {
+"SetCustomString": {
+"SetMinimumChildWeight": {
+"SetMaximumChildWeight": {
+"SetWeight": {
+"Expand": {
+"AddNode": {
+"AddNodeWithWeight": {
+"FilterSubtree": {
+"ReadFromFile": {
+"GetAggregatedValue": {
+"GetSubtree": {
+"IsType": {
+"IsValue": {
+"GetChildOfType": {
+"IsStringEqualTo": {
+"IsStringMemberOf": {
+"IsHavingSubstring": {
+"IsHavingLeftSubstring": {
+"IsHavingRightSubstring": {
+"AddPrefix": {
+"AddPostFix": {
+"TrimLeft": {
+"TrimRight": {
+"WriteToFile": {
+"GetLength": {
+"IsIntEqualTo": {
+"IsIntMemberOf": {
+"IsLessThan": {
+"IsLessThanOrEqualTo": {
+"IsGreaterThan": {
+"IsGreaterThanOrEqualTo": {
+"Add": {
+"Subtract": {
+"ToString": {
+"GetItemCount": {
+"Filter": {
+"GroupBy": {
+"GroupSequenceBy": {
+"Seek": {
+"SeekToBegin": {
+"SeekToEnd": {
+"GetCurrentElement": {
+"IsNull": {
+"IsNotNull": {
+"And": {
+"Or": {
+"script.ldel": {
+"log.txt": {
+"result.txt": {
+"(NUMBER)": {
+"(FORMATTED_NUMBER)": {
+"(STRING)": {
+"(TEXT)": {
+"(SPACES)": {
+"(FLOAT)": {
+"(FORMATTED_FLOAT)": {
+"SEQUENCE": {
+"#IMPORT": {
+"Ignore_Empty_Lines": {
+"Number_Format_Is_European": {
+"IGNORE_TEXT_BLOCK": {
+"SetEntityObject": {
+"GetEntityObject": {
+"SecondsToMonths": {
+"SecondsToDays": {
+"SecondsToYears": {
+"GetDifferenceByString": {
+"StringToReadableDateTime": {
+"DateNow": {
+"StringToUnixTime": {
+"GetNextElement": {
+"CheckNotNull": {
+"GetUniqueNodeListWithCount": {
+"StringToInteger": {
+"GetStringVar": {
+"GetIntegerVar": {
+"StringToBoolean": {
+"GetComma": {
+"GetBooleanVar": {
+"SetBoolean": {
+"ToFalse": {
+"ToTrue": {
+"NextSibling": {
+"SortNodeList": {
+"ExtractNodeListTop": {
+"GetCustomObj": {
+"ConvertToSentenceCase": {
+"GetDayOfTheWeekShortString": {
+"GetDayString": {
+"GetMonthShortString": {
+"GetTime24HourFormat": {
+"GetYear": {
+"GetOldestDate": {
+"GetLatestDate": {
+"AddPeriod": {
+"GetUniqueNodeListWithNodeRef": {
+"SetInteger": {
+"QueryProfileAndTDPs": {
+"GetNodeObj": {
+"Multiply": {
+"AbsoluteValue": {
+"Divide": {
+"QueryReviewsByProfileIds": {
+"StringToUnixTime2": {
+"QueryReviewsByIdentifiers": {
+"Percentage": {
+"Average": {
+"": {
+}
+}
